@@ -20,7 +20,7 @@ pip install faker
 1. Clone or download this script.
 2. Run the script using Python:
    ```sh
-   python script.py
+   python main.py
    ```
 3. The generated book records will be saved to `extended_books.json` in the same directory.
 
